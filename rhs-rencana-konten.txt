@@ -3,6 +3,10 @@ rencana konten
 - multimedia
   -photoshop
   -premiere
+  -colorgrading
+  -flati
 - photography
 - programming
+  - javascpirt
 - gaming
+- youtube
