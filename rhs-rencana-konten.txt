@@ -3,5 +3,6 @@ rencana konten
 - multimedia
   -photoshop
   -premiere
+- photography
 - programming
 - gaming
