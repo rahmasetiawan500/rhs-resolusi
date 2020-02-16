@@ -7,4 +7,6 @@ rencana konten
   -flati
 - youtube
 - programming
+  - javascpirt
 - gaming
+- youtube
