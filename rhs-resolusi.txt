@@ -3,6 +3,6 @@ RHS Resolusi
 - Resolusi Version 1.3
 - Resolusi version 1.4
 - Resolusi version 1.5
-- Resolusi Version 1.6
+- resolusi verion 1.6.1
 - Resolusi version 1.7
 - Resolusi version 1.8
