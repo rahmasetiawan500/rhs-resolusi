@@ -3,9 +3,9 @@ rencana konten
 - multimedia
   -photoshop
   -premiere
-  -colorgrading
+  -sound
   -flati
-- photography
+- youtube
 - programming
   - javascpirt
 - gaming
