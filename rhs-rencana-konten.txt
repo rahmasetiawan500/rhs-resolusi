@@ -3,6 +3,8 @@ rencana konten
 - multimedia
   -photoshop
   -premiere
-- photography
+  -sound
+  -flati
+- youtube
 - programming
 - gaming
