@@ -4,6 +4,7 @@ rencana konten
   -photoshop
   -premiere
   -colorgrading
+  -flati
 - photography
 - programming
   - javascpirt
